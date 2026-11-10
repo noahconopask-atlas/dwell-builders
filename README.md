@@ -1,6 +1,6 @@
 # Dwell Builders — website
 
-New site concept for [Dwell Builders, LLC](http://dwellbuildersllc.com/) — kitchens, baths, outdoor living and custom renovation in Arnold & Annapolis, Maryland since 2002. MHIC #96899.
+New site concept for [Dwell Builders, LLC](http://dwellbuildersllc.com/) — boutique handyman and renovation work in Arnold & Annapolis, Maryland since 2002. MHIC #96899.
 
 Plain static HTML, no build step. Hosted on GitHub Pages.
 
