@@ -8,4 +8,4 @@ Plain static HTML, no build step. Hosted on GitHub Pages.
 - `kitchen.html` — project case study
 - `images/` — project photography
 
-To be filled in: text in `[BRACKETS]`, Nate's portrait, the before photo, and the kitchen project details.
+To be filled in: text in `[BRACKETS]` (kitchen project details, a client quote, a line from Nate).
